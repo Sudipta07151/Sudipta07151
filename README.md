@@ -1,5 +1,7 @@
 ### Hi there 👋
-🌱 I’m currently learning ...web development
+
+- 🔭 I’m currently working on ...SHAREZONE PROJECT(FINAL YEAR)
+- 🌱 I’m currently learning ...C++, NODE JS, REACT JS
 <!--
 **Sudipta07151/Sudipta07151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
