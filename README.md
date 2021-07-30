@@ -9,6 +9,6 @@
   </p>
 <div/>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sudipta07151"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Sudipta07151&show_icons=true&theme=radical"/> 
 <div/>
 <!--
