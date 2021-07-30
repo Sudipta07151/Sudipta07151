@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning ...C++, NODE JS, REACT JS
 <!--
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sudipta07151)
