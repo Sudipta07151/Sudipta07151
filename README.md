@@ -2,7 +2,7 @@
 
 <div> 
   <p>
-    - 🔭 I’m currently working on ...SHAREZONE PROJECT(FINAL YEAR)
+    - 🔭 I’m currently working on ...SHAREZONE PROJECT(FINAL YEAR)[COMPLETED]
   </p>
   <p>
     - 🌱 I’m currently learning ...C++, NODE JS, REACT JS, JAVA , JAVASCRIPT, GO
