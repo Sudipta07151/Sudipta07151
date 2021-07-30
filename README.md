@@ -11,4 +11,7 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Sudipta07151&show_icons=true&theme=radical"/> 
 <div/>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudipta07151&layout=compact"/> 
+<div/>
 <!--
