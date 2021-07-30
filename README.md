@@ -5,7 +5,7 @@
     - 🔭 I’m currently working on ...SHAREZONE PROJECT(FINAL YEAR)[COMPLETED]
   </p>
   <p>
-    - 🌱 I’m currently learning ...C++, NODE JS, REACT JS, JAVA , JAVASCRIPT, GO
+    - 🌱 I’m currently learning ... JAVA, JAVASCRIPT, GO, NEXT_JS, DESIGN_PATTERNS
   </p>
 <div/>
 <div>
