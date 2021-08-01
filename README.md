@@ -15,6 +15,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudipta07151&layout=compact"/> 
 <div/>
 <div>
- <p>CONTACT: <h3>adak07151@gmail.com</h3></p> 
+ <p>CONTACT: <b>adak07151@gmail.com</b></p> 
 <div/>
 <!--
