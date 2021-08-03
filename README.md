@@ -27,7 +27,7 @@
   CRAFT_DRAFT_ECOM_WEBAPP
 </p>
 <p><span>WEBSITE: </span><span>http://craft-delta.vercel.app/</span><p>
-</span></p>
+<p>Need to refresh for a few times if >> This Serverless Function has timed out >is shwon > (vercel free tier problem)</p>
 
 
 
