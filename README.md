@@ -26,7 +26,7 @@
 <p>
   CRAFT_DRAFT_ECOM_WEBAPP
 </p>
-<p><span>WEBSITE: </span><span>https://mighty-harbor-14391.herokuapp.com/</span><p>
+<p><span>WEBSITE: </span><span>http://craft-delta.vercel.app/</span><p>
 </span></p>
 
 
