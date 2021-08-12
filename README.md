@@ -2,10 +2,10 @@
 
 <div> 
   <p>
-    - 🔭 I’m currently working on ...SHAREZONE PROJECT(FINAL YEAR)[COMPLETED]
+    - 🔭 MY PROJECTS :  SHAREZONE PROJECT(FINAL YEAR COLLEGE,REACT JS), CRAFT_DRAFT (ECOMMERCE WEB APPLICATION, NEXTJS), DICE ROLL(FLUTTER, DART)
   </p>
   <p>
-    - 🌱 I’m currently learning ... JAVA, JAVASCRIPT, GO, NEXT_JS, DESIGN_PATTERNS
+    - 🌱 I’m currently learning ... JAVA, JAVASCRIPT, GO, NEXT_JS, DESIGN_PATTERNS, FLUTTER
   </p>
 <div/>
 <div>
