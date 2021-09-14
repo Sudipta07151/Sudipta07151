@@ -18,19 +18,19 @@
  <p>CONTACT: <b>adak07151@gmail.com</b></p> 
 <div/>
 <p>
-   <b>PROJECT-2021-FRONT-AND-BACK-END"</b>
+   <h2>PROJECT-2021-FRONT-AND-BACK-END"</h2>
 </p>
 <p><span>WEBSITE: </span><span>https://mighty-harbor-14391.herokuapp.com/LibraryMain/insert</span></p>
 <p>*note: just after login refresh url to >https://mighty-harbor-14391.herokuapp.com/xxxx  (anything, minor redirect bug present)</p>
 
 <p>
-  CRAFT_DRAFT_ECOM_WEBAPP
+  <h2>CRAFT_DRAFT_ECOM_WEBAPP</h2>
 </p>
 <p><span>WEBSITE: </span><span>http://craft-delta.vercel.app/</span><p>
 <p>*note: Need to refresh for a few times if >> This Serverless Function has timed out >is shwon > (vercel free tier problem)</p>
 
 <p>
-TODO APP [FLUTTER_DART_FIREBASE]
+<h2>TODO APP [FLUTTER_DART_FIREBASE]</h2>
 </p>  
 
 <!--
