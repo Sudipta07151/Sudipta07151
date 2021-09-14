@@ -25,6 +25,26 @@
 
 <p>
   <h2>CRAFT_DRAFT_ECOM_WEBAPP</h2>
+    <img src="https://user-images.githubusercontent.com/66881276/133306330-7e0952e2-adfc-4f34-abf0-b4690571b44a.png" style=" width:800px ; height:600px " />
+  
+  <img src="https://user-images.githubusercontent.com/66881276/133306335-830c0741-e781-40a4-a850-b0b24903ad54.png" style=" width:800px ; height:600px "/>
+  
+  <img src="https://user-images.githubusercontent.com/66881276/133306340-081c9ae3-838c-4f0a-8215-0b80bd546281.png" style=" width:800px ; height:600px " />
+  
+  <img src="https://user-images.githubusercontent.com/66881276/133306342-3ff00971-fede-41a8-89b3-01c4c544b964.png" style=" width:800px ; height:600px " />
+  
+  <img src="https://user-images.githubusercontent.com/66881276/133306343-c3f6fe6f-5171-4197-b038-26e44a44d4d1.png" style=" width:800px ; height:600px " />
+
+  <img src="https://user-images.githubusercontent.com/66881276/133306347-84ea8878-b7e7-43b3-a580-56160bbd2d5e.png" style=" width:800px ; height:600px " />
+  
+  <img src="https://user-images.githubusercontent.com/66881276/133306349-a58579d8-232b-4abb-9837-76854f613caf.png" style=" width:800px ; height:600px "/>
+  
+  <img src="https://user-images.githubusercontent.com/66881276/133306350-2d8bfbe1-bb93-4bae-9432-17b790b686ed.png" style=" width:800px ; height:600px " />
+  
+  <img src="https://user-images.githubusercontent.com/66881276/133306351-1e4ffb8d-e220-4675-854b-a7b0b06ea793.png" style=" width:800px ; height:600px " />
+  
+  <img src="https://user-images.githubusercontent.com/66881276/133306354-d2c07642-483e-4420-812d-3265c58cd090.png" style=" width:800px ; height:600px " />
+  
 </p>
 <p><span>WEBSITE: </span><span>http://craft-delta.vercel.app/</span><p>
 <p>*note: Need to refresh for a few times if >> This Serverless Function has timed out >is shwon > (vercel free tier problem)</p>
