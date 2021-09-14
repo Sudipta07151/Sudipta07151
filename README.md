@@ -31,7 +31,7 @@
 
 <p>
 <h2>TODO APP [FLUTTER_DART_FIREBASE]</h2>
-![Screenshot_20210914-223258](https://user-images.githubusercontent.com/66881276/133303140-32d82282-9242-4ceb-89be-6bcfca634181.jpg)
+  <img src="https://user-images.githubusercontent.com/66881276/133303140-32d82282-9242-4ceb-89be-6bcfca634181.jpg" style=" width:100px ; height:100px " />
 </p>  
 
 <!--
