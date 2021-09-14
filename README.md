@@ -25,7 +25,6 @@
   
   <img src="https://user-images.githubusercontent.com/66881276/133307747-37b75228-941c-4f47-a3e4-7f8dc9737214.png" style=" width:800px ; height:600px " />
   
-  <img src="https://user-images.githubusercontent.com/66881276/133306343-c3f6fe6f-5171-4197-b038-26e44a44d4d1.png" style=" width:800px ; height:600px " />
 
   <img src="https://user-images.githubusercontent.com/66881276/133307753-694ea622-88b2-46d8-9793-39a0e17f3c9a.png" style=" width:800px ; height:600px "/>
   
