@@ -18,7 +18,7 @@
  <p>CONTACT: <b>adak07151@gmail.com</b></p> 
 <div/>
 <p>
-   PROJECT-2021-FRONT-AND-BACK-END"
+   <b>PROJECT-2021-FRONT-AND-BACK-END"</b>
 </p>
 <p><span>WEBSITE: </span><span>https://mighty-harbor-14391.herokuapp.com/LibraryMain/insert</span></p>
 <p>*note: just after login refresh url to >https://mighty-harbor-14391.herokuapp.com/xxxx  (anything, minor redirect bug present)</p>
