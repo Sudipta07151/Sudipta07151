@@ -15,15 +15,9 @@
  <p>CONTACT: <b>adak07151@gmail.com</b></p> 
 
   <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sudipta07151&show_icons=true&theme=radical"/> 
-  <img src="https://user-images.githubusercontent.com/66881276/133307743-864f41aa-a0d9-4cb4-b043-4ecb2c8293e3.png" style=" width:800px ; height:600px " />
-  
-  <img src="https://user-images.githubusercontent.com/66881276/133307747-37b75228-941c-4f47-a3e4-7f8dc9737214.png" style=" width:800px ; height:600px " />
-  
-
+ 
   <img src="https://user-images.githubusercontent.com/66881276/133307753-694ea622-88b2-46d8-9793-39a0e17f3c9a.png" style=" width:800px ; height:600px "/>
   
-  <img src="https://user-images.githubusercontent.com/66881276/133307760-07e18973-7a76-46c9-8f17-930f70f3678c.png" style=" width:800px ; height:600px " />
   
 <div/>
 <div/>
