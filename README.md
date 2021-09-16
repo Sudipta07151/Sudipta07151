@@ -10,6 +10,8 @@
 <div/>
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudipta07151&layout=compact"/> 
+    <img src="https://github-readme-stats.vercel.app/api?username=Sudipta07151&show_icons=true&theme=radical"/> 
+
 <div/>
 <div>
  <p>CONTACT: <b>adak07151@gmail.com</b></p> 
