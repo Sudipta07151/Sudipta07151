@@ -9,6 +9,12 @@
   </p>
 <div/>
 <div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudipta07151&layout=compact"/> 
+<div/>
+<div>
+ <p>CONTACT: <b>adak07151@gmail.com</b></p> 
+
+  <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Sudipta07151&show_icons=true&theme=radical"/> 
   <img src="https://user-images.githubusercontent.com/66881276/133307743-864f41aa-a0d9-4cb4-b043-4ecb2c8293e3.png" style=" width:800px ; height:600px " />
   
@@ -20,11 +26,6 @@
   <img src="https://user-images.githubusercontent.com/66881276/133307760-07e18973-7a76-46c9-8f17-930f70f3678c.png" style=" width:800px ; height:600px " />
   
 <div/>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudipta07151&layout=compact"/> 
-<div/>
-<div>
- <p>CONTACT: <b>adak07151@gmail.com</b></p> 
 <div/>
 <p>
    <h2>PROJECT-2021-REACT-INDIVIDUAL-BOOK-KEEPING-BLOGPOST-WEB-APP"</h2>
