@@ -21,15 +21,6 @@
    <h2>PROJECT-2021-REACT-INDIVIDUAL-BOOK-KEEPING-BLOGPOST-WEB-APP"</h2>
   <img src="https://user-images.githubusercontent.com/66881276/133307737-edcb054d-7294-4fa2-b3e6-c7b8e9d9e36a.png" style=" width:800px ; height:600px "/>
   
-  <img src="https://user-images.githubusercontent.com/66881276/133307743-864f41aa-a0d9-4cb4-b043-4ecb2c8293e3.png" style=" width:800px ; height:600px " />
-  
-  <img src="https://user-images.githubusercontent.com/66881276/133307747-37b75228-941c-4f47-a3e4-7f8dc9737214.png" style=" width:800px ; height:600px " />
-  
-
-  <img src="https://user-images.githubusercontent.com/66881276/133307753-694ea622-88b2-46d8-9793-39a0e17f3c9a.png" style=" width:800px ; height:600px "/>
-  
-  <img src="https://user-images.githubusercontent.com/66881276/133307760-07e18973-7a76-46c9-8f17-930f70f3678c.png" style=" width:800px ; height:600px " />
-  
 </p>
 <p><span>WEBSITE: </span><span>https://mighty-harbor-14391.herokuapp.com/LibraryMain/insert</span></p>
 <p>*note: just after login refresh url to >https://mighty-harbor-14391.herokuapp.com/xxxx  (anything, minor redirect bug present)</p>
